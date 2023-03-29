@@ -1,0 +1,16 @@
+body {
+    padding: 15px;
+    font-size: medium;
+    background-color: #FFF;
+   }
+   h1 {
+    margin: 5px 20px;
+    font-size: 60px;
+    color: #365d7a;
+   }
+   img {
+    width: 300px;
+    margin: 5px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 1px 1px #b2b2b2;
+   }
